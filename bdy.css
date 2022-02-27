@@ -1,0 +1,32 @@
+
+.navbar{
+    position: fixed;
+    width: 100%;
+     
+}
+.title h1{
+    margin:0 auto
+}
+
+.b-body{
+    min-height: 100vh;
+    
+}
+.b-body .container2{
+    background-image: url(img/bdy.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+.title p{
+    color: white;
+}
+.title h1{
+    color: white;
+    font-size: 70px;
+    margin-top: -27px;
+}
+.b-body{
+    min-height: 60vh;
+}

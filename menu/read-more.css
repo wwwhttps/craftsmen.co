@@ -1,0 +1,45 @@
+.wrrap h1 span{
+    font-size: 80px;
+    padding-top: 80px;
+}
+.wrrap{
+    padding-left: 30px;
+
+}
+
+/* .container{
+     background-color:#212529
+
+} */
+.wrrap .welcome-text p{
+    font-size: 30px;
+    padding-left: 6px;
+    
+
+}
+.wrrap .text {
+    width: 84%;
+}
+
+.text {
+    padding-left: 6px;
+
+}
+.svg-container{
+    background-image: url(image/svg.svg);
+    background-position: top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-color:#212529; */
+    z-index: 888;
+    margin-top: 90px;
+    /* width: 1000px;
+    height: 500px; */
+}
+.svg-container.col-6 {
+    margin-top: 43px;
+}   
+.height
+{
+   min-height: 100vh
+}

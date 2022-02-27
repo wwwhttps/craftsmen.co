@@ -1,0 +1,23 @@
+body{
+         
+           
+}
+.container-fluid2{
+    min-height: 100vh;
+
+}
+.info p {
+    color: black;
+    background: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    padding-bottom: 23px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.img1
+{
+    margin-top: 20px;
+}
